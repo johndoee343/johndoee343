@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @johndoee343
-
-<!---
-libre software advocate, linux user.
---->
+- libre software advocate. gnu/linux user.
